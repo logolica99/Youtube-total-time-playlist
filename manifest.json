@@ -1,0 +1,12 @@
+{
+  "name": "youtube playlist total time",
+  "version": "1.0",
+  "manifest_version": 3,
+
+  "permissions": ["storage", "activeTab", "scripting", "tabs", "<all_urls>"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+ 
+
+}

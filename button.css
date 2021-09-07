@@ -1,0 +1,29 @@
+button {
+  height: 30px;
+  width: 100px;
+  outline: none;
+  margin: 10px;
+  border: none;
+  border-radius: 2px;
+  cursor: pointer;
+  font-size: 16px;
+  background-color:rgb(24, 24, 24);
+  color: white;
+  font-weight: 900;
+  border-radius: 10px;
+  height:40px;
+  width:150px;
+  transition:all 200ms ease-in-out;
+
+
+}
+button:hover{
+  transform:scale(1.05)
+}
+body{
+  height: 100px;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  background:rgb(0, 0, 0);
+}
